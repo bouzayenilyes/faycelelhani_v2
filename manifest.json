@@ -1,6 +1,6 @@
 {
-  "name": "My PWA App",
-  "short_name": "PWA App",
+  "name": "Faycel Elhani",
+  "short_name": "Faycel Elhani",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
